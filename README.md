@@ -7,10 +7,10 @@ This work studies a novel type of query called Indoor Contact Query (ICQ) over u
 1. Generate trajectory: run src/datagenerate/TrajectoryGen.java
 2. Test Algorithm: run src/algorithm/Algo_ICQ_XXX.java
 3. Conduct experiments:
-  1) create a directory "result" under "ICQ_ICDE"
-  2) run src/experiments/Test_XXX(parameter)
-  3) run src/experiments/Acc_XXX(corrisponding parameter)
-  4) result can be seen in directory "result". For each parameter, there will be four files: XX(dataset)_XX(parameter)_F.csv, XX(dataset)_XX(parameter)_recall.csv, XX(dataset)_XX(parameter)_time.csv, XX(dataset)_XX(parameter)_memory.csv
+  - create a directory "result" under "ICQ_ICDE"
+  - run src/experiments/Test_XXX(parameter)
+  - run src/experiments/Acc_XXX(corrisponding parameter)
+  - result can be seen in directory "result". For each parameter, there will be four files: XX(dataset)_XX(parameter)_F.csv, XX(dataset)_XX(parameter)_recall.csv, XX(dataset)_XX(parameter)_time.csv, XX(dataset)_XX(parameter)_memory.csv
   
 ### Contact
 1. [Tiantian Liu](https://tiantianliu-ttl.github.io/) (liutt@cs.aau.dk)
