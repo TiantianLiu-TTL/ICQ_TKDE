@@ -1,5 +1,5 @@
 ### Introduction
-This project is for papaer "Contact Tracing over Uncertain Indoor Positioning Data".
+This project is for paper "Contact Tracing over Uncertain Indoor Positioning Data".
 
 This work studies a novel type of query called Indoor Contact Query (ICQ) over uncertain indoor positioning data that captures people's movements indoors. 
 
